@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    text-align: centre;
+
+}
+h1{
+    font-size: 45px;
+
+.top{
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    background-color: rgb(127, 124, 124);
+}
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color:greenyellow;
+    color:black ;
+}
+.btn:hover{
+    background-color: red;
+    cursor: pointer;
+}
